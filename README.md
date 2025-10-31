@@ -1,7 +1,7 @@
 # distribuidos
-el archivo distri.tar.gz es la misma carpeta pero comprimida
-los comandos para ejecutar son los siguientes:
-se dirige a la ruta y crea la carpeta ejemplo: /home/user/Documentos/distri y descarga ahi los archivos
+el archivo distri.tar.gz es la misma carpeta pero comprimida.  
+los comandos para ejecutar son los siguientes:  
+se dirige a la ruta y crea la carpeta ejemplo: /home/user/Documentos/distri y descarga ahi los archivos.
 en la consola se dirige a la ruta y ejecuta los camandos
   
 gcc -pthread -o server server.c -lcrypto
