@@ -1,4 +1,5 @@
 # distribuidos
+#Brayan David Mosquera Agudelo 160004606
 el archivo distri.tar.gz es la misma carpeta pero comprimida.  
 los comandos para ejecutar son los siguientes:  
 se dirige a la ruta y crea la carpeta ejemplo: /home/user/Documentos/distri y descarga ahi los archivos.
