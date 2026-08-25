@@ -10,7 +10,7 @@
 #define BLOCK_SIZE 100
 #define BACKLOG 5
 
-typedef struct {
+typedef struct {fdfdsdfsdfgsdfgs
     int id;
     size_t len;
     char *data;
